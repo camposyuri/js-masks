@@ -25,8 +25,5 @@ $(document).ready(function() {
     'placeholder': ''
   });
 
-  $(".mask-name").inputmask({
-      mask: ["[A-z]"]
-  });
 
 });
