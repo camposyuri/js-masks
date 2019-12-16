@@ -24,4 +24,9 @@ $(document).ready(function() {
     'prefix': 'R$ ',
     'placeholder': ''
   });
+
+  $(".mask-name").inputmask({
+      mask: ["[A-z]"]
+  });
+
 });
