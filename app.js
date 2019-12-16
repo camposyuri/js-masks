@@ -25,5 +25,6 @@ $(document).ready(function() {
     'placeholder': ''
   });
 
-
+  // $(".mask-name").inputmask({
+  // });
 });
